@@ -23,18 +23,3 @@ The React Authenticator App is a simple authentication system built with React a
    npm install
    npm run dev
 
-
-   react-auth-app/
-├── public/
-│   ├── index.html
-├── src/
-│   ├── components/
-│   │   ├── Register.jsx
-│   │   ├── Login.jsx
-│   │   ├── ProtectedRoute.jsx
-│   ├── contexts/
-│   │   ├── AuthContext.jsx
-│   ├── App.jsx
-│   ├── main.jsx
-├── package.json
-├── README.md
